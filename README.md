@@ -10,4 +10,4 @@ You can press "R" for radar, to show the hidden oil buckets and gold nuggets wit
 
 Hey, make sure you are not hit by the falling boulders!!   
 
-![Alt text](IcemanCodes/screenShot.png?raw=true "ScreenShot")
+![Alt text](code/screenShot.png?raw=true "ScreenShot")
