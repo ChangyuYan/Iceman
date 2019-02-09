@@ -2,7 +2,7 @@
 
 Use the arrow keys to move the iceman.   
 
-Press space to shoot the protectors! But before, you only have a limited amount of water in your gun, but you can pick up more water from pools along the way.  
+Press space to shoot the protectors! But be careful, you only have a limited amount of water in your gun, but you can pick up more water from pools along the way.  
 
 You can bribe a regular protector with gold nuggets.  
 
